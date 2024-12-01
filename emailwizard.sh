@@ -1,12 +1,6 @@
 #!/bin/sh
-##
-###
-####
 # Taking original script from https://github.com/LukeSmithxyz -- Thanks Bro!
 # I do not want to name it "Mail" -- for spamming purposes
-####
-###
-##
 #
 
 # BEFORE INSTALLING
